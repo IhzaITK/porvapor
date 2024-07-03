@@ -1,0 +1,78 @@
+.alert-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.p-alert {
+  display: block;
+  margin-top: 4px;
+}
+
+.title-alert {
+  background-color: black;
+  color: white;
+  padding: 16px;
+  text-align: center;
+  width: 100%;
+}
+
+.enter-alert {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.alert-acces {
+  display: block;
+}
+
+.age-alert {
+  font-size: 32px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.input-alert {
+  text-align: center;
+  margin: 4px;
+  width: 88px;
+  height: 40px;
+  margin-bottom: 30px;
+  border: solid 1px black;
+}
+
+.enter-btn {
+  width: 138px;
+  margin: 4px;
+  height: 50px;
+  text-align: center;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.exit-btn {
+  width: 138px;
+  margin: 4px;
+  height: 50px;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+  background-color: #dedede;
+}
+
+.this-website {
+  margin-top: 20px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.all-order {
+  display: block;
+}
+
+.verification {
+  display: block;
+}
